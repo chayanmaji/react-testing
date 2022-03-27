@@ -33,9 +33,7 @@ function AddInput({
             <button 
                 className="add-btn"
                 onClick={addTodo}
-            >
-                Add
-            </button>
+            >Add</button>
         </div>
     )
 }
